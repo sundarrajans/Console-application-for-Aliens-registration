@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+from Aliens_on_Earth import ui
+
+ui.main()
